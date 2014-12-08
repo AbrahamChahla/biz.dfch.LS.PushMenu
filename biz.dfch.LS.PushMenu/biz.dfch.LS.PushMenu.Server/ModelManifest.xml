@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.Server\DataSources\ApplicationData\Tasks.lsml" Checksum="87F6A3AAC6F51EA947D02B6AEE7CE2117218500A4E30100D9FA1594FD10D1918" />
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.Server\DataSources\ApplicationData\Users.lsml" Checksum="A364826825DADB74E38EC3E1FAB0D7CA791E685D08AB3A9EAD6E53E04950B7DD" />
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.Server\Properties\DataSources\ApplicationData.lsml" Checksum="986A4E2C3BC71E61B26C49DBB7451F9203AA85AB5825740AC6E35E7095E0722C" />
+    <Document FullPath="E:\BitBucketGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.Server\Properties\Service.lsml" Checksum="679C78F29C5AF23E9956A773B0E46DF90F7B86CADA0B79571E5896A1C79F5B70" />
+  </Documents>
+</ModelDocumentManifest>

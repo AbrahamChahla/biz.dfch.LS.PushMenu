@@ -1,0 +1,4 @@
+E:\BitBucketGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\bin\Debug\LSResourceGeneratorsTask.mcs
+E:\BitBucketGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\bin\Debug\LSClientCodeGeneratorsTask.mcs
+E:\BitBucketGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\bin\Debug\LSResourceGeneratorsTask.mcs
+E:\BitBucketGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\bin\Debug\LSClientCodeGeneratorsTask.mcs

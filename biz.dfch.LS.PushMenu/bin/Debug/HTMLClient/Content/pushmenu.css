@@ -1,0 +1,49 @@
+﻿/* Customizations for multilevel push menu */
+
+/* Move header to the right */
+
+.msls-logo, .msls-title-container {
+
+    margin-left: 2em;
+
+}
+
+/* move content area to the right */
+.msls-content {
+    padding-left: 40px;
+}
+
+/* Hide the back button */
+
+.msls-back-button-contain {
+
+    display: none;
+
+} 
+
+
+/* set Z-Index so elements are clickable */
+
+.multilevelpushmenu_wrapper {
+
+    z-index: 9000;
+
+}
+
+/* set Z-Index so elements are clickable */
+
+.msls-ctl-list .msls-table {
+ z-index: 10000;
+}
+
+
+
+/* Fix font of header */
+
+.multilevelpushmenu_wrapper h2 {
+
+    text-shadow: initial;
+
+    color: #FFFFFF;
+
+}
