@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Documents>
-    <Document FullPath="E:\BitBucketGit\biz.dfch.ls.pushmenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Properties\Client.lsml" Checksum="90097E9A1D7A1F76F4C456BEE9A47BEFB7D220FE55DC22D1FBD0C397C62B3B87" />
-    <Document FullPath="E:\BitBucketGit\biz.dfch.ls.pushmenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Properties\Proxies.lsml" Checksum="AB88B660C24CFDB98E611AC0FDBD3CF67E5AFDB1D20E26F11714F9DC00D88FFF" />
-    <Document FullPath="E:\BitBucketGit\biz.dfch.ls.pushmenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\AddEditTask.lsml" Checksum="19D46437DCA5E11ECCAADAB02B863B28BC359DE9049B9B197F5D1A1769575993" />
-    <Document FullPath="E:\BitBucketGit\biz.dfch.ls.pushmenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\AddEditUser.lsml" Checksum="BD8FAA3D8848CAFFFBDEE37787408AF258B56DAA279E3B6A29AD39DF9DC5D6E4" />
-    <Document FullPath="E:\BitBucketGit\biz.dfch.ls.pushmenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\BrowseTasks.lsml" Checksum="5F9213D5212DCA3985BA0630898708DD35D164F783F2079CDB03BF7A7348FA3A" />
-    <Document FullPath="E:\BitBucketGit\biz.dfch.ls.pushmenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\BrowseUsers.lsml" Checksum="4B5CAECD9DF1ED78A0883FB3C6AEF242B1B3906336219723E798A18DD952A9E6" />
-    <Document FullPath="E:\BitBucketGit\biz.dfch.ls.pushmenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\Home.lsml" Checksum="E7878AC1E44F1C26B4B925C859FBB9427F6A4681C3FBAB75F7CEE2B4AFFEB0A0" />
+    <Document FullPath="E:\DfensGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Properties\Client.lsml" Checksum="90097E9A1D7A1F76F4C456BEE9A47BEFB7D220FE55DC22D1FBD0C397C62B3B87" />
+    <Document FullPath="E:\DfensGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Properties\Proxies.lsml" Checksum="AB88B660C24CFDB98E611AC0FDBD3CF67E5AFDB1D20E26F11714F9DC00D88FFF" />
+    <Document FullPath="E:\DfensGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\AddEditTask.lsml" Checksum="19D46437DCA5E11ECCAADAB02B863B28BC359DE9049B9B197F5D1A1769575993" />
+    <Document FullPath="E:\DfensGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\AddEditUser.lsml" Checksum="BD8FAA3D8848CAFFFBDEE37787408AF258B56DAA279E3B6A29AD39DF9DC5D6E4" />
+    <Document FullPath="E:\DfensGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\BrowseTasks.lsml" Checksum="5F9213D5212DCA3985BA0630898708DD35D164F783F2079CDB03BF7A7348FA3A" />
+    <Document FullPath="E:\DfensGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\BrowseUsers.lsml" Checksum="4B5CAECD9DF1ED78A0883FB3C6AEF242B1B3906336219723E798A18DD952A9E6" />
+    <Document FullPath="E:\DfensGit\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu\biz.dfch.LS.PushMenu.HTMLClient\Screens\Home.lsml" Checksum="E7878AC1E44F1C26B4B925C859FBB9427F6A4681C3FBAB75F7CEE2B4AFFEB0A0" />
   </Documents>
 </ModelDocumentManifest>
